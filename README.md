@@ -61,3 +61,8 @@ Instead of traditional reactive methods, a **Data-Driven Retention Simulation** 
 ├── Notebooks/            # Jupyter Notebooks containing Data Cleaning, EDA, and Modeling
 ├── Presentation/         # Executive PowerPoint Presentation
 └── README.md             # Project documentation
+🎥 Project Presentation
+You can watch the full business-level video presentation of this project here:
+👉 Watch the Presentation Video
+
+Developed with 🤍 by Mennatullah Mahmoud Saleh.
